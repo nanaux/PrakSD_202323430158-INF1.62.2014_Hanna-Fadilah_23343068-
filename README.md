@@ -1,0 +1,2 @@
+JobSheet 01 
+Struktur data adalah cara penyimpanan, penyusunan, dan pengaturan data di dalam media penyimpanan komputer untuk digunakan secara efisien. Dalam pemrograman, struktur data meliputi tipe data sederhana dan majemuk, serta struktur data sederhana dan majemuk seperti array, record, linked list, stack, queue, tree, dan graph. Penggunaan struktur data yang tepat dalam proses pemrograman dapat menghasilkan algoritma yang lebih jelas dan tepat, sehingga menjadikan program secara keseluruhan lebih efisien dan sederhana.
