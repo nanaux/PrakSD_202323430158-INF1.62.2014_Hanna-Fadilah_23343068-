@@ -14,3 +14,12 @@ JobSheet 05
 Jobshet ini membahas tentang struktur data double linked list dan circular linked list. Tujuannya adalah untuk mempelajari konsep, mengimplementasikan, dan menyelesaikan permasalahan sederhana menggunakan double linked list dan circular linked list dalam pemrograman C. 
 
 JobSheet 06
+Jobsheet ini membahas tentang struktur data tumpukan atau stack dalam pemrograman C. Mahasiswa diharapkan mampu memahami konsep tumpukan, operasi yang ada di dalamnya, dan mengimplementasikannya dalam program C dengan IDE. Materi ini dibagi menjadi tiga bagian: teori singkat yang menjelaskan konsep stack dan implementasi menggunakan array, operasi pada stack seperti push, pop, peek, isFull, dan isEmpty, dan beberapa contoh program implementasi stack baik menggunakan array maupun linked list. 
+
+JobSheet 07
+Menjelaskan konsep queue, operasi pada queue, implementasi queue menggunakan array dan linked list, serta contoh program untuk implementasi queue. Selain itu, jobshet ini juga membahas konsep deque dan implementasinya menggunakan array, serta konsep priority queue yang diimplementasikan dengan heap. 
+
+JobSheet 08
+Jobsheet ini membahas mengenai konsep pengurutan data dalam algoritma pemrograman C. Jobsheet ini memaparkan dua algoritma pengurutan data yaitu Bubble Sort dan Insertion Sort, termasuk contoh implementasinya. Melalui jobsheet ini, mahasiswa diharapkan memahami konsep dasar pengurutan data, algoritma Bubble Sort dan Insertion Sort, serta penerapannya dalam pemrograman C.
+
+JobSheet 09
