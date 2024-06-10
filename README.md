@@ -11,15 +11,29 @@ JobSheet 04
 Menjelaskan tentang implementasi Doubly Linked List dalam bahasa C. JobSheet ini membahas konsep Doubly Linked List, keunggulannya dibandingkan dengan single linked list, operasi penambahan seperti menambahkan node di awal, setelah node tertentu, di akhir, dan sebelum node yang diberikan. JobSheet ini juga menyediakan contoh-contoh yang diilustrasikan dengan potongan kode untuk setiap operasi penambahan. 
 
 JobSheet 05
-Jobshet ini membahas tentang struktur data double linked list dan circular linked list. Tujuannya adalah untuk mempelajari konsep, mengimplementasikan, dan menyelesaikan permasalahan sederhana menggunakan double linked list dan circular linked list dalam pemrograman C. 
+Jobshet ini mencakup konsep dan implementasi daftar tertaut ganda dan daftar tertaut melingkar. Lembar kerja ini memberikan berbagai contoh dan penerapan daftar tertaut. Misalnya, mencakup cara membuat daftar tertaut, menambahkan simpul ke awal atau akhir daftar tertaut, menghapus simpul dari daftar tertaut, dan menampilkan daftar tertaut. Ini juga mencakup bagaimana menerapkan daftar tertaut melingkar dan bagaimana melakukan operasi yang sama pada daftar tertaut melingkar seperti pada daftar tertaut linier. Jobsheet ini bertujuan untuk meningkatkan pemahaman tentang linked list, double linked list dan sirkular linked list. Ini penting untuk pembelajaran struktur data dalam ilmu komputer.
 
 JobSheet 06
-Jobsheet ini membahas tentang struktur data tumpukan atau stack dalam pemrograman C. Mahasiswa diharapkan mampu memahami konsep tumpukan, operasi yang ada di dalamnya, dan mengimplementasikannya dalam program C dengan IDE. Materi ini dibagi menjadi tiga bagian: teori singkat yang menjelaskan konsep stack dan implementasi menggunakan array, operasi pada stack seperti push, pop, peek, isFull, dan isEmpty, dan beberapa contoh program implementasi stack baik menggunakan array maupun linked list. 
+Jobsheet ini membahas tentang STACK. Stack adalah struktur data yang menggunakan konsep LIFO (Last In First Out). Elemen terakhir yang disimpan dalam stack menjadi elemen pertama yang diambil. Beberapa operasi umum yang dilakukan pada stack adalah push, pop, peek, isEmpty, isFull dan clear. Stack dapat diimplementasikan menggunakan array atau linked list.
 
 JobSheet 07
-Menjelaskan konsep queue, operasi pada queue, implementasi queue menggunakan array dan linked list, serta contoh program untuk implementasi queue. Selain itu, jobshet ini juga membahas konsep deque dan implementasinya menggunakan array, serta konsep priority queue yang diimplementasikan dengan heap. 
+JobSheet ini membahas konsep dan implementasi queue (antrian) dalam pemrograman. Materi ini membahas tentang konsep dasar queue, operasi pada queue, dan implementasi queue dengan array dan linked list. Selain itu, jobshet ini juga membahas implementasi circular queue dan deque (double-ended queue) dalam pemrograman.
+Melalui jobshet ini, Dapat memahami konsep queue dan menerapkannya dalam berbagai permasalahan pemrograman, khususnya dalam pengembangan program yang memerlukan pengelolaan data secara terurut dan berdasarkan prinsip FIFO (First-In-First-Out).
 
 JobSheet 08
-Jobsheet ini membahas mengenai konsep pengurutan data dalam algoritma pemrograman C. Jobsheet ini memaparkan dua algoritma pengurutan data yaitu Bubble Sort dan Insertion Sort, termasuk contoh implementasinya. Melalui jobsheet ini, mahasiswa diharapkan memahami konsep dasar pengurutan data, algoritma Bubble Sort dan Insertion Sort, serta penerapannya dalam pemrograman C.
+Jobsheet ini membahas Bubble Sort adalah algoritme pengurutan sederhana yang berulang kali menelusuri daftar yang akan diurutkan, membandingkan elemen yang berdekatan, dan menukarnya jika urutannya salah. Melewati daftar diulang sampai tidak diperlukan pertukaran, yang menunjukkan bahwa daftar telah diurutkan.Penyisipan Penyortiran adalah algoritma pengurutan sederhana lainnya yang membangun array terakhir yang diurutkan satu item dalam satu waktu. Ini melakukan iterasi melalui array input, menghapus satu elemen pada satu waktu dan memasukkannya ke posisi yang benar di subarray yang sudah diurutkan
 
 JobSheet 09
+Jobsheet ini membahas algoritma sorting yaitu Selection sort dan Merge sort. Selection sort mencari elemen terkecil di dalam list yang belum tersusun pada setiap iterasi dan menempatkan elemen terkecil tersebut di urutan paling depan. Sementara itu, merge sort menggunakan teknik divide and conquer untuk membagi array menjadi sub-array yang lebih kecil dan mengurutkan masing-masing sub-array tersebut sebelum menggabungkannya menjadi array yang terurut.
+
+JobSheet 10
+Jobsheet ini membahas mengenai algoritma pengurutan data, khususnya Shell Sort dan Quick Sort. Shell Sort menggunakan interval jarak untuk mengurutkan elemen data, sementara Quick Sort membagi data menjadi dua bagian, kemudian mengurutkan setiap bagian secara terpisah dan menggabungkannya kembali.
+
+JobSheet 11
+JobSheet ini membahas mengenai Linear and Binary Search Algoritma pencarian adalah algoritma yang menerima sebuah argumen kunci dan dengan langkah-langkah tertentu akan mencari rekaman dengan kunci tersebut. Setelah proses pencarian dilaksanakan, akan diperoleh salah satu dari dua kemungkinan, yaitu data yang dicari ditemukan (successful) atau tidak ditemukan (unsuccessful). Ada dua macam teknik pencarian yaitu pencarian sekuensial (linear search) dan pencarian biner (binary search). Perbedaan dari dua teknik ini terletak pada keadaan data. Pencarian sekuensial digunakan apabila data dalam keadaan acak atau tidak terurut. Sebaliknya, pencarian biner digunakan pada data yang sudah dalam keadaan urut.
+
+JobSheet 12
+Jobsheet ini membahas mengenai Tree Traversal, yaitu proses mengunjungi semua simpul dalam sebuah pohon data. Di dalamnya dijelaskan mengenai 3 cara melintasi tree, yaitu: Inorder, Preorder, dan Postorder. Selain itu, jobshet ini juga berisi tentang implementasi tree traversal menggunakan bahasa pemrograman C. 
+
+JobSheet 13
+Jobsheet ini membahas tentang penerapan algoritma Depth First Search (DFS) dan Breadth First Search (BFS) pada struktur data graph. Pertama, jobsheet ini menjelaskan konsep dasar dari kedua algoritma tersebut dan memberikan ilustrasi bagaimana penerapan DFS dengan diagram. Selanjutnya, terdapat beberapa contoh program C yang mengimplementasikan algoritma DFS, mulai dari program yang sederhana hingga yang lebih kompleks.
