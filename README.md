@@ -60,7 +60,5 @@ Quick Sort, sebaliknya, menggunakan algoritma divide dan conquer untuk mengurutk
                 <th rowspan="1">Jobsheet 13</th>
                 <td>Membahas tentang Graphs, yaitu struktur data yang terdiri dari simpul dan hubungan antar simpul. Dalam jobsheet ini, dibahas tentang Depth First Search (DFS) dan Breadth First Search (BFS) yang digunakan untuk mencari semua simpul dalam sebuah graph. DFS menggunakan algoritma rekursif untuk mengunjungi semua simpul dalam graph, sedangkan BFS menggunakan algoritma non-rekursif untuk mengunjungi semua simpul dalam graph secara berurutan. Implementasi DFS dan BFS dilakukan dengan menggunakan struktur data graph yang terdiri dari simpul dan hubungan antar simpul. Contoh implementasi DFS dan BFS juga disajikan dalam jobsheet ini, termasuk contoh penggunaan fungsi-fungsi seperti createGraph, addEdge, dan printGraph untuk menginisialisasi graph dan menambahkan hubungan antar simpul. Fungsi DFS dan BFS juga disajikan untuk mengunjungi semua simpul dalam graph menggunakan DFS dan BFS.
 </td>
-            </tr>
+        </tr>
         </table>
-</body>
-</html>
