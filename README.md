@@ -1,3 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kesimpulan Jobsheet</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin: 20px auto;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border: 2px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+            color: #333;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            font-size: 24px;
+        }
+        .centered {
+            text-align: center;
+        }
+        .emoji {
+            font-size: 20px;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
 <table border="5" cellspasing="5" cellpadding="6" align="center">
             <tr>
                 <th colspan="2">Kesimpulan Jobsheet</th>
