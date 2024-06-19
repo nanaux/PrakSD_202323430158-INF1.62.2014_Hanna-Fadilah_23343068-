@@ -3,7 +3,7 @@ Menjelaskan struktur data adalah cara penyimpanan, penyusunan, dan pengaturan da
 
 JobSheet 02
 Membahas tentang konsep dasar array, pointer, dan struct dalam pemrograman, serta cara mengimplementasikan dan memanipulasi data menggunakan struktur data tersebut. Materi ini meliputi deklarasi array, pointer, dan struct, serta cara mengakses elemen array, nilai dari variabel yang ditunjuk, dan anggota struct.
-Jobsheet ini juga membahas tentang ADT (Abstract Data Type) atau Tipe Data Bentukan, yang adalah koleksi data dan operasi yang dapat digunakan untuk memanipulasi data. Contoh penggunaan ADT termasuk membuat tipe data baru menggunakan keyword `typedef` dan menggunakan tipe data tersebut dalam program.
+Jobsheet ini juga membahas tentang ADT (Abstract Data Type) atau Tipe Data Bentukan, yang adalah koleksi data dan operasi yang dapat digunakan untuk memanipulasi data. Contoh penggunaan ADT termasuk membuat tipe data baru menggunakan keyword typedef dan menggunakan tipe data tersebut dalam program.
 
 JobSheet 03
 Menjelaskan linked list adalah cara penyimpanan data yang berupa simpul atau node yang saling bertaut. Setiap simpul dapat menyimpan data dan memiliki alamat/pointer menuju simpul lain. Linked list ini dibuat untuk mengurutkan data dan memungkinkan penggunaan operasi dasar seperti alokasi memori, penghapusan, dan pengisian data. Dalam implementasi, linked list dapat dibuat dengan menggunakan alokasi memori menggunakan fungsi malloc() dan dikonversi ke tipe yang sesuai. Contoh program linked list sederhana menunjukkan cara membuat linked list dengan alokasi memori dan operasi dasar seperti penghapusan dan pengisian data.
