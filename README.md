@@ -41,7 +41,8 @@ Melalui jobshet ini, Dapat memahami konsep queue dan menerapkannya dalam berbaga
             </tr>
             <tr>
                 <th rowspan="1">Jobsheet 9</th>
-                <td>Jobsheet ini membahas algoritma sorting yaitu Selection sort dan Merge sort. Selection sort mencari elemen terkecil di dalam list yang belum tersusun pada setiap iterasi dan menempatkan elemen terkecil tersebut di urutan paling depan. Sementara itu, merge sort menggunakan teknik divide and conquer untuk membagi array menjadi sub-array yang lebih kecil dan mengurutkan masing-masing sub-array tersebut sebelum menggabungkannya menjadi array yang terurut.</td>
+                <td>Jobsheet ini membahas tentang pengurutan data menggunakan algoritma Selection Sort dan Merge Sort. Selection Sort adalah sebuah algoritma yang digunakan untuk mencari dan memilih elemen terkecil dalam sebuah list yang belum tersusun dalam setiap iterasi dan menempatkan elemen terkecil di urutan paling depan dari urutan list data. Algoritma ini bekerja dengan cara membandingkan elemen pertama dengan elemen lainnya dan menempatkan elemen terkecil di depan, kemudian membandingkan elemen berikutnya dan seterusnya hingga seluruh elemen digantikan pada posisi yang terurut.
+Merge Sort, sebaliknya, menggunakan teknik membagi dan menggabungkan (divide and conquer) untuk mengurutkan data. Algoritma ini bekerja dengan cara membagi array menjadi dua bagian yang sama besar, kemudian mengurutkan masing-masing bagian secara rekursif, dan akhirnya menggabungkan bagian-bagian yang telah diurutkan menjadi array yang terurut. Dengan menggunakan teknik ini, Merge Sort memiliki kompleksitas waktu yang lebih baik dibandingkan dengan Selection Sort, yaitu Ο(n log n) yang menjadikannya salah satu algoritma pengurutan yang paling disegani.</td>
             </tr>
             <tr>
                 <th rowspan="1">Jobsheet 10</th>
